@@ -1,0 +1,10 @@
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Ohayou\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
